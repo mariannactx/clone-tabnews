@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Page() {
-  return <div>Oie</div>;
+  return <div>Oie 💖</div>;
 }
